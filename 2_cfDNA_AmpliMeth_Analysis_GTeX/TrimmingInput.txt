@@ -1,0 +1,11 @@
+Target	TrimLeft	TrimRight
+APC2-short-2	1	0
+PACRGShort	0	1
+FAM123Short2	0	0
+DNERShort	0	0
+C10orf90	0	0
+cg02619656	1	1
+cg09787504	1	0
+cg23661000	0	0
+TAR7Short	0	0
+KNCA2Short	0	0

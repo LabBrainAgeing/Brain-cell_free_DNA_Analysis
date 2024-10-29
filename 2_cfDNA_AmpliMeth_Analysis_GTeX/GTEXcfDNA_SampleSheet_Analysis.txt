@@ -1,0 +1,142 @@
+SampleID	Participant ID(s)	Container	Gender	Tissue Site Detail	Tissue1	Tissue2	Tissue3
+GTEX-X4EP-0011-R2B-SM-MTK4S	PT-X4EP	CO-34708238	Female	Brain - Substantia nigra	Brain	Brain_Substantia_nigra	Brain_Substantia_nigra
+GTEX-X4EP-0011-R3A-SM-MTK4I	PT-X4EP	CO-34708238	Female	Brain - Anterior cingulate cortex (BA24)	Brain	Brain_Anterior_cingulate_cortex_(BA24)	Brain_Anterior_cingulate_cortex_(BA24)
+GTEX-X4EP-0011-R4B-SM-MTN3S	PT-X4EP	CO-34708238	Female	Brain - Amygdala	Brain	Brain_Amygdala	Brain_Amygdala
+GTEX-X4XX-0011-R3B-SM-MTN4A	PT-X4XX	CO-34708238	Male	Brain - Anterior cingulate cortex (BA24)	Brain	Brain_Anterior_cingulate_cortex_(BA24)	Brain_Anterior_cingulate_cortex_(BA24)
+GTEX-X4XX-2226-SM-MTN3Y	PT-X4XX	CO-34708238	Male	Pancreas	Pancreas	Pancreas	Other
+GTEX-X4EP-3226-SM-MTN4H	PT-X4EP	CO-34708238	Female	Pituitary	Pituitary	Pituitary	Pituitary
+GTEX-XLM4-1526-SM-MTN4Y	PT-XLM4	CO-34708238	Male	Testis	Testis	Testis	Testis
+GTEX-XLM4-2626-SM-MTN4O	PT-XLM4	CO-34708238	Male	Stomach	Stomach	Stomach	Other
+GTEX-XLM4-1326-SM-MTN53	PT-XLM4	CO-34708238	Male	Adrenal Gland	Adrenal_Gland	Adrenal_Gland	Other
+GTEX-X4EP-3126-SM-MTK27	PT-X4EP	CO-34708239	Female	Brain - Cortex	Brain	Brain_Cortex	Brain_Cortex
+GTEX-X4EP-1326-SM-MTK28	PT-X4EP	CO-34708239	Female	Artery - Coronary	Artery_Coronary	Artery_Coronary	Other
+GTEX-X4EP-0226-SM-MTK4A	PT-X4EP	CO-34708239	Female	Adipose - Subcutaneous	Adipose_Subcutaneous	Adipose_Subcutaneous	Other
+GTEX-X4XX-0011-R5A-SM-MTK4R	PT-X4XX	CO-34708238	Male	Brain - Caudate (basal ganglia)	Brain	Brain_Caudate_(basal_ganglia)	Brain_Caudate_(basal_ganglia)
+GTEX-XLM4-0003-SM-MTK4H	PT-XLM4	CO-34708238	Male	Whole Blood	Whole_Blood	Whole_Blood	Other
+GTEX-XLM4-2926-SM-MTN3T	PT-XLM4	CO-34708238	Male	Brain - Cerebellum	Brain	Brain_Cerebellum	Brain_Cerebellum
+GTEX-TSE9-2026-SM-MTN45	PT-TSE9	CO-34708238	Female	Kidney - Cortex	Kidney_Cortex	Kidney_Cortex	Other
+GTEX-X4EP-2326-SM-MTN3Z	PT-X4EP	CO-34708238	Female	Uterus	Uterus	Uterus	Uterus
+GTEX-X4EP-1126-SM-MTN4I	PT-X4EP	CO-34708238	Female	Spleen	Spleen	Spleen	Other
+GTEX-X4EP-0011-R9B-SM-MTN4T	PT-X4EP	CO-34708238	Female	Brain - Spinal cord (cervical c-1)	Brain	Brain_Spinal_cord_(cervical_c-1)	Brain_Spinal_cord_(cervical_c-1)
+GTEX-TSE9-2226-SM-MTN4P	PT-TSE9	CO-34708238	Female	Ovary	Ovary	Ovary	Ovary
+GTEX-X4XX-0926-SM-MTN54	PT-X4XX	CO-34708238	Male	Thyroid	Thyroid	Thyroid	Thyroid
+GTEX-X4EP-0926-SM-MTK4P	PT-X4EP	CO-34708239	Female	Muscle - Skeletal	Muscle_Skeletal	Muscle_Skeletal	Other
+GTEX-XLM4-1826-SM-MTK4D	PT-XLM4	CO-34708239	Male	Lung	Lung	Lung	Other
+GTEX-XLM4-2026-SM-MTK4M	PT-XLM4	CO-34708239	Male	Heart - Atrial Appendage	Heart_Atrial_Appendage	Heart_Atrial_Appendage	Other
+GTEX-XLM4-0826-SM-MTK4Q	PT-XLM4	CO-34708238	Male	Liver	Liver	Liver	Other
+GTEX-XLM4-3126-SM-MTN3M	PT-XLM4	CO-34708238	Male	Pituitary	Pituitary	Pituitary	Pituitary
+GTEX-XLM4-2826-SM-MTN3U	PT-XLM4	CO-34708238	Male	Prostate	Prostate	Prostate	Prostate
+GTEX-X4XX-2426-SM-MTN46	PT-X4XX	CO-34708238	Male	Stomach	Stomach	Stomach	Other
+GTEX-X4XX-3126-SM-MTN4B	PT-X4XX	CO-34708238	Male	Pituitary	Pituitary	Pituitary	Pituitary
+GTEX-X4XX-0011-R11A-SM-MTN4J	PT-X4XX	CO-34708238	Male	Brain - Cerebellar Hemisphere	Brain	Brain_Cerebellar_Hemisphere	Brain_Cerebellar_Hemisphere
+GTEX-X4EP-0326-SM-MTN4U	PT-X4EP	CO-34708238	Female	Heart - Atrial Appendage	Heart_Atrial_Appendage	Heart_Atrial_Appendage	Other
+GTEX-TSE9-2926-SM-MTN59	PT-TSE9	CO-34708238	Female	Brain - Cerebellum	Brain	Brain_Cerebellum	Brain_Cerebellum
+GTEX-X4XX-1826-SM-MTN55	PT-X4XX	CO-34708238	Male	Spleen	Spleen	Spleen	Other
+GTEX-X4XX-1926-SM-MTK44	PT-X4XX	CO-34708239	Male	Liver	Liver	Liver	Other
+GTEX-X4EP-0426-SM-MTK45	PT-X4EP	CO-34708239	Female	Heart - Left Ventricle	Heart_Left_Ventricle	Heart_Left_Ventricle	Other
+GTEX-X4EP-2626-SM-MTK3Z	PT-X4EP	CO-34708239	Female	Colon - Sigmoid	Colon_Sigmoid	Colon_Sigmoid	Other
+GTEX-X4XX-0011-R10B-SM-MTK4U	PT-X4XX	CO-34708238	Male	Brain - Frontal Cortex (BA9)	Brain	Brain_Frontal_Cortex_(BA9)	Brain_Frontal_Cortex_(BA9)
+GTEX-XLM4-0011-R8A-SM-MTN3N	PT-XLM4	CO-34708238	Male	Brain - Hypothalamus	Brain	Brain_Hypothalamus	Brain_Hypothalamus
+GTEX-XLM4-0926-SM-MTN3V	PT-XLM4	CO-34708238	Male	Spleen	Spleen	Spleen	Other
+GTEX-X4XX-0011-R7A-SM-MTN47	PT-X4XX	CO-34708238	Male	Brain - Putamen (basal ganglia)	Brain	Brain_Putamen_(basal_ganglia)	Brain_Putamen_(basal_ganglia)
+GTEX-X4XX-2626-SM-MTN4C	PT-X4XX	CO-34708238	Male	Small Intestine - Terminal Ileum	Small_Intestine_Terminal_Ileum	Small_Intestine_Terminal_Ileum	Other
+GTEX-XLM4-0011-R1A-SM-MTN4K	PT-XLM4	CO-34708238	Male	Brain - Hippocampus	Brain	Brain_Hippocampus	Brain_Hippocampus
+GTEX-X4XX-0726-SM-MTN4V	PT-X4XX	CO-34708238	Male	Testis	Testis	Testis	Testis
+GTEX-TSE9-1926-SM-MTN5A	PT-TSE9	CO-34708238	Female	Adrenal Gland	Adrenal_Gland	Adrenal_Gland	Adrenal_Gland
+GTEX-X4EP-0526-SM-MTN4Z	PT-X4EP	CO-34708238	Female	Lung	Lung	Lung	Other
+GTEX-X4XX-2826-SM-MTK43	PT-X4XX	CO-34708239	Male	Colon - Sigmoid	Colon_Sigmoid	Colon_Sigmoid	Other
+GTEX-X4EP-1926-SM-MTK46	PT-X4EP	CO-34708239	Female	Kidney - Cortex	Kidney_Cortex	Kidney_Cortex	Other
+GTEX-TSE9-0011-R4A-SM-MTK3W	PT-TSE9	CO-34708239	Female	Brain - Amygdala	Brain	Brain_Amygdala	Brain_Amygdala
+GTEX-X4EP-1826-SM-MTK4T	PT-X4EP	CO-34708238	Female	Adrenal Gland	Adrenal_Gland	Adrenal_Gland	Adrenal_Gland
+GTEX-TSE9-1226-SM-MTN3O	PT-TSE9	CO-34708238	Female	Esophagus - Mucosa	Esophagus_Mucosa	Esophagus_Mucosa	Other
+GTEX-XLM4-0011-R7A-SM-MTN3W	PT-XLM4	CO-34708238	Male	Brain - Putamen (basal ganglia)	Brain	Brain_Putamen_(basal_ganglia)	Brain_Putamen_(basal_ganglia)
+GTEX-X4EP-1626-SM-MTN42	PT-X4EP	CO-34708238	Female	Esophagus - Mucosa	Esophagus_Mucosa	Esophagus_Mucosa	Other
+GTEX-X4EP-3026-SM-MTN4D	PT-X4EP	CO-34708238	Female	Brain - Cerebellum	Brain	Brain_Cerebellum	Brain_Cerebellum
+GTEX-XLM4-0011-R3B-SM-MTN4L	PT-XLM4	CO-34708238	Male	Brain - Anterior cingulate cortex (BA24)	Brain	Brain_Anterior_cingulate_cortex_(BA24)	Brain_Anterior_cingulate_cortex_(BA24)
+GTEX-X4EP-2426-SM-MTN4Q	PT-X4EP	CO-34708238	Female	Ovary	Ovary	Ovary	Ovary
+GTEX-TSE9-0002-SM-MTN5B	PT-TSE9	CO-34708238	Female	Whole Blood	Whole_Blood	Whole_Blood	Other
+GTEX-TSE9-1526-SM-MTN51	PT-TSE9	CO-34708238	Female	Spleen	Spleen	Spleen	Other
+GTEX-TSE9-1826-SM-MTK49	PT-TSE9	CO-34708239	Female	Colon - Transverse	Colon_Transverse	Colon_Transverse	Other
+GTEX-TSE9-2826-SM-MTK3Q	PT-TSE9	CO-34708239	Female	Cervix - Ectocervix	Cervix_Ectocervix	Cervix_Ectocervix	Cervix_Ectocervix
+GTEX-TSE9-0011-R9A-SM-MTK3R	PT-TSE9	CO-34708239	Female	Brain - Spinal cord (cervical c-1)	Brain	Brain_Spinal_cord_(cervical_c-1)	Brain_Spinal_cord_(cervical_c-1)
+GTEX-XLM4-2326-SM-MTK4G	PT-XLM4	CO-34708238	Male	Esophagus - Mucosa	Esophagus_Mucosa	Esophagus_Mucosa	Other
+GTEX-X4XX-0011-R1B-SM-MTN3P	PT-X4XX	CO-34708238	Male	Brain - Hippocampus	Brain	Brain_Hippocampus	Brain_Hippocampus
+GTEX-X4XX-1526-SM-MTN3X	PT-X4XX	CO-34708238	Male	Esophagus - Mucosa	Esophagus_Mucosa	Esophagus_Mucosa	Other
+GTEX-XLM4-2526-SM-MTN43	PT-XLM4	CO-34708238	Male	Esophagus - Gastroesophageal Junction	Esophagus_Gastroesophageal_Junction	Esophagus_Gastroesophageal_Junction	Other
+GTEX-XLM4-1226-SM-MTN4E	PT-XLM4	CO-34708238	Male	Pancreas	Pancreas	Pancreas	Other
+GTEX-XLM4-0011-R4B-SM-MTN4M	PT-XLM4	CO-34708238	Male	Brain - Amygdala	Brain	Brain_Amygdala	Brain_Amygdala
+GTEX-X4EP-2726-SM-MTN4R	PT-X4EP	CO-34708238	Female	Colon - Transverse	Colon_Transverse	Colon_Transverse	Other
+GTEX-X4XX-0004-SM-MTN56	PT-X4XX	CO-34708238	Male	Whole Blood	Whole_Blood	Whole_Blood	Other
+GTEX-TSE9-2326-SM-MTN52	PT-TSE9	CO-34708238	Female	Fallopian Tube	Fallopian_Tube	Fallopian_Tube	Other
+GTEX-X4EP-0126-SM-MTK3O	PT-X4EP	CO-34708239	Female	Skin - Sun Exposed (Lower leg)	Skin_Sun_Exposed_(Lower_leg)	Skin_Sun_Exposed_(Lower_leg)	Other
+GTEX-X4XX-0526-SM-MTK3K	PT-X4XX	CO-34708239	Male	Artery - Tibial	Artery_Tibial	Artery_Tibial	Other
+GTEX-XLM4-0011-R9A-SM-MTK3L	PT-XLM4	CO-34708239	Male	Brain - Spinal cord (cervical c-1)	Brain	Brain_Spinal_cord_(cervical_c-1)	Brain_Spinal_cord_(cervical_c-1)
+GTEX-X4XX-2026-SM-MTK4F	PT-X4XX	CO-34708238	Male	Adrenal Gland	Adrenal_Gland	Adrenal_Gland	Other
+GTEX-X4EP-2826-SM-MTN3Q	PT-X4EP	CO-34708238	Female	Small Intestine - Terminal Ileum	Small_Intestine_Terminal_Ileum	Small_Intestine_Terminal_Ileum	Other
+GTEX-X4EP-2126-SM-MTN48	PT-X4EP	CO-34708238	Female	Thyroid	Thyroid	Thyroid	Thyroid
+GTEX-TSE9-3126-SM-MTN44	PT-TSE9	CO-34708238	Female	Pituitary	Pituitary	Pituitary	Pituitary
+GTEX-X4XX-2326-SM-MTN4F	PT-X4XX	CO-34708238	Male	Kidney - Cortex	Kidney_Cortex	Kidney_Cortex	Other
+GTEX-XLM4-0011-R5A-SM-MTN4W	PT-XLM4	CO-34708238	Male	Brain - Caudate (basal ganglia)	Brain	Brain_Caudate_(basal_ganglia)	Brain_Caudate_(basal_ganglia)
+GTEX-XLM4-2426-SM-MTN4S	PT-XLM4	CO-34708238	Male	Esophagus - Muscularis	Esophagus_Muscularis	Esophagus_Muscularis	Other
+GTEX-X4EP-0002-SM-MTN57	PT-X4EP	CO-34708238	Female	Whole Blood	Whole_Blood	Whole_Blood	Other
+GTEX-TSE9-2126-SM-MTN5L	PT-TSE9	CO-34708238	Female	Kidney - Medulla	Kidney_Medulla	Kidney_Medulla	Other
+GTEX-TSE9-0126-SM-MTK3P	PT-TSE9	CO-34708239	Female	Skin - Sun Exposed (Lower leg)	Skin_Sun_Exposed_(Lower_leg)	Skin_Sun_Exposed_(Lower_leg)	Other
+GTEX-X4XX-2126-SM-MTK3G	PT-X4XX	CO-34708239	Male	Adipose - Visceral (Omentum)	Adipose_Visceral_(Omentum)	Adipose_Visceral_(Omentum)	Other
+GTEX-XLM4-0011-R2B-SM-MTK3E	PT-XLM4	CO-34708239	Male	Brain - Substantia nigra	Brain	Brain_Substantia_nigra	Brain_Substantia_nigra
+GTEX-X4XX-0011-R4B-SM-MTK4E	PT-X4XX	CO-34708238	Male	Brain - Amygdala	Brain	Brain_Amygdala	Brain_Amygdala
+GTEX-X4XX-2526-SM-MTN3R	PT-X4XX	CO-34708238	Male	Colon - Transverse	Colon_Transverse	Colon_Transverse	Other
+GTEX-X4EP-0011-R5A-SM-MTN49	PT-X4EP	CO-34708238	Female	Brain - Caudate (basal ganglia)	Brain	Brain_Caudate_(basal_ganglia)	Brain_Caudate_(basal_ganglia)
+GTEX-XLM4-2226-SM-MTN41	PT-XLM4	CO-34708238	Male	Heart - Left Ventricle	Heart_Left_Ventricle	Heart_Left_Ventricle	Other
+GTEX-X4EP-1226-SM-MTN4G	PT-X4EP	CO-34708238	Female	Pancreas	Pancreas	Pancreas	Other
+GTEX-XLM4-1626-SM-MTN4X	PT-XLM4	CO-34708238	Male	Small Intestine - Terminal Ileum	Small_Intestine_Terminal_Ileum	Small_Intestine_Terminal_Ileum	Other
+GTEX-XLM4-0726-SM-MTN4N	PT-XLM4	CO-34708238	Male	Thyroid	Thyroid	Thyroid	Thyroid
+GTEX-TSE9-1626-SM-MTN58	PT-TSE9	CO-34708238	Female	Pancreas	Pancreas	Pancreas	Other
+GTEX-X4EP-0011-R1A-SM-MTN5M	PT-X4EP	CO-34708238	Female	Brain - Hippocampus	Brain	Brain_Hippocampus	Brain_Hippocampus
+GTEX-TSE9-0011-R6A-SM-MTK3B	PT-TSE9	CO-34708239	Female	Brain - Nucleus accumbens (basal ganglia)	Brain	Brain_Nucleus_accumbens_(basal_ganglia)	Brain_Nucleus_accumbens_(basal_ganglia)
+GTEX-XLM4-0011-R6A-SM-MTK3C	PT-XLM4	CO-34708239	Male	Brain - Nucleus accumbens (basal ganglia)	Brain	Brain_Nucleus_accumbens_(basal_ganglia)	Brain_Nucleus_accumbens_(basal_ganglia)
+GTEX-TSE9-0011-R5A-SM-MTK3D	PT-TSE9	CO-34708239	Female	Brain - Caudate (basal ganglia)	Brain	Brain_Caudate_(basal_ganglia)	Brain_Caudate_(basal_ganglia)
+GTEX-TSE9-0626-SM-MTK4B	PT-TSE9	CO-34708239	Female	Thyroid	Thyroid	Thyroid	Thyroid
+GTEX-X4XX-1126-SM-MTK4C	PT-X4XX	CO-34708239	Male	Heart - Atrial Appendage	Heart_Atrial_Appendage	Heart_Atrial_Appendage	Other
+GTEX-X4XX-0826-SM-MTK2P	PT-X4XX	CO-34708239	Male	Breast - Mammary Tissue	Breast_Mammary_Tissue	Breast_Mammary_Tissue	Other
+GTEX-X4EP-1726-SM-MTK2Q	PT-X4EP	CO-34708239	Female	Esophagus - Muscularis	Esophagus_Muscularis	Esophagus_Muscularis	Other
+GTEX-TSE9-0011-R2A-SM-MTK29	PT-TSE9	CO-34708239	Female	Brain - Substantia nigra	Brain	Brain_Substantia_nigra	Brain_Substantia_nigra
+GTEX-X4EP-0011-R6A-SM-MTK2A	PT-X4EP	CO-34708239	Female	Brain - Nucleus accumbens (basal ganglia)	Brain	Brain_Nucleus_accumbens_(basal_ganglia)	Brain_Nucleus_accumbens_(basal_ganglia)
+GTEX-XLM4-2126-SM-MTK4N	PT-XLM4	CO-34708239	Male	Artery - Coronary	Artery_Coronary	Artery_Coronary	Other
+GTEX-X4EP-0011-R7B-SM-MTK4O	PT-X4EP	CO-34708239	Female	Brain - Putamen (basal ganglia)	Brain	Brain_Putamen_(basal_ganglia)	Brain_Putamen_(basal_ganglia)
+GTEX-XLM4-0426-SM-MTK2N	PT-XLM4	CO-34708239	Male	Artery - Tibial	Artery_Tibial	Artery_Tibial	Other
+GTEX-X4EP-0011-R8B-SM-MTK2O	PT-X4EP	CO-34708239	Female	Brain - Hypothalamus	Brain	Brain_Hypothalamus	Brain_Hypothalamus
+GTEX-TSE9-2726-SM-MTK2B	PT-TSE9	CO-34708239	Female	Cervix - Endocervix	Cervix_Endocervix	Cervix_Endocervix	Cervix_Endocervix
+GTEX-XLM4-3026-SM-MTK2C	PT-XLM4	CO-34708239	Male	Brain - Cortex	Brain	Brain_Cortex	Brain_Cortex
+GTEX-TSE9-0926-SM-MTK41	PT-TSE9	CO-34708239	Female	Heart - Left Ventricle	Heart_Left_Ventricle	Heart_Left_Ventricle	Other
+GTEX-X4XX-0626-SM-MTK42	PT-X4XX	CO-34708239	Male	Muscle - Skeletal	Muscle_Skeletal	Muscle_Skeletal	Other
+GTEX-XLM4-0626-SM-MTK2L	PT-XLM4	CO-34708239	Male	Muscle - Skeletal	Muscle_Skeletal	Muscle_Skeletal	Other
+GTEX-TSE9-1326-SM-MTK2M	PT-TSE9	CO-34708239	Female	Esophagus - Muscularis	Esophagus_Muscularis	Esophagus_Muscularis	Other
+GTEX-TSE9-2526-SM-MTK2D	PT-TSE9	CO-34708239	Female	Vagina	Vagina	Vagina	Other
+GTEX-XLM4-1726-SM-MTK2E	PT-XLM4	CO-34708239	Male	Colon - Transverse	Colon_Transverse	Colon_Transverse	Other
+GTEX-TSE9-0526-SM-MTK3X	PT-TSE9	CO-34708239	Female	Muscle - Skeletal	Muscle_Skeletal	Muscle_Skeletal	Other
+GTEX-TSE9-2426-SM-MTK3Y	PT-TSE9	CO-34708239	Female	Bladder	Bladder	Bladder	Other
+GTEX-TSE9-0011-R7A-SM-MTK2J	PT-TSE9	CO-34708239	Female	Brain - Putamen (basal ganglia)	Brain	Brain_Putamen_(basal_ganglia)	Brain_Putamen_(basal_ganglia)
+GTEX-TSE9-0011-R8A-SM-MTK2K	PT-TSE9	CO-34708239	Female	Brain - Hypothalamus	Brain	Brain_Hypothalamus	Brain_Hypothalamus
+GTEX-X4XX-0326-SM-MTK2F	PT-X4XX	CO-34708239	Male	Skin - Not Sun Exposed (Suprapubic)	Skin_Not_Sun_Exposed_(Suprapubic)	Skin_Not_Sun_Exposed_(Suprapubic)	Other
+GTEX-X4EP-1026-SM-MTK2G	PT-X4EP	CO-34708239	Female	Liver	Liver	Liver	Other
+GTEX-X4EP-0826-SM-MTK3S	PT-X4EP	CO-34708239	Female	Artery - Tibial	Artery_Tibial	Artery_Tibial	Other
+GTEX-X4EP-1526-SM-MTK3T	PT-X4EP	CO-34708239	Female	Stomach	Stomach	Stomach	Other
+GTEX-X4XX-0426-SM-MTK2V	PT-X4XX	CO-34708239	Male	Nerve - Tibial	Nerve_Tibial	Nerve_Tibial	Nerve_Tibial
+GTEX-TSE9-2626-SM-MTK2W	PT-TSE9	CO-34708239	Female	Uterus	Uterus	Uterus	Other
+GTEX-TSE9-1726-SM-MTK2R	PT-TSE9	CO-34708239	Female	Stomach	Stomach	Stomach	Other
+GTEX-X4XX-0011-R6B-SM-MTK2S	PT-X4XX	CO-34708239	Male	Brain - Nucleus accumbens (basal ganglia)	Brain	Brain_Nucleus_accumbens_(basal_ganglia)	Brain_Nucleus_accumbens_(basal_ganglia)
+GTEX-X4XX-1226-SM-MTK3M	PT-X4XX	CO-34708239	Male	Artery - Coronary	Artery_Coronary	Artery_Coronary	Other
+GTEX-X4EP-2026-SM-MTK3N	PT-X4EP	CO-34708239	Female	Esophagus - Gastroesophageal Junction	Esophagus_Gastroesophageal_Junction	Esophagus_Gastroesophageal_Junction	Other
+GTEX-XLM4-0526-SM-MTK2X	PT-XLM4	CO-34708239	Male	Nerve - Tibial	Nerve_Tibial	Nerve_Tibial	Nerve_Tibial
+GTEX-TSE9-3026-SM-MTK2Y	PT-TSE9	CO-34708239	Female	Brain - Cortex	Brain	Brain_Cortex	Brain_Cortex
+GTEX-XLM4-0326-SM-MTK2Z	PT-XLM4	CO-34708239	Male	Skin - Not Sun Exposed (Suprapubic)	Skin_Not_Sun_Exposed_(Suprapubic)	Skin_Not_Sun_Exposed_(Suprapubic)	Other
+GTEX-X4XX-0011-R2A-SM-MTK3F	PT-X4XX	CO-34708239	Male	Brain - Substantia nigra	Brain	Brain_Substantia_nigra	Brain_Substantia_nigra
+GTEX-X4XX-1726-SM-MTK3H	PT-X4XX	CO-34708239	Male	Esophagus - Gastroesophageal Junction	Esophagus_Gastroesophageal_Junction	Esophagus_Gastroesophageal_Junction	Other
+GTEX-X4EP-0726-SM-MTK33	PT-X4EP	CO-34708239	Female	Nerve - Tibial	Nerve_Tibial	Nerve_Tibial	Nerve_Tibial
+GTEX-TSE9-0726-SM-MTK34	PT-TSE9	CO-34708239	Female	Lung	Lung	Lung	Other
+GTEX-XLM4-2726-SM-MTK31	PT-XLM4	CO-34708239	Male	Colon - Sigmoid	Colon_Sigmoid	Colon_Sigmoid	Other
+GTEX-TSE9-1126-SM-MTK38	PT-TSE9	CO-34708239	Female	Liver	Liver	Liver	Other
+GTEX-TSE9-0326-SM-MTK39	PT-TSE9	CO-34708239	Female	Nerve - Tibial	Nerve_Tibial	Nerve_Tibial	Nerve_Tibial
+GTEX-X4XX-1626-SM-MTK3A	PT-X4XX	CO-34708239	Male	Esophagus - Muscularis	Esophagus_Muscularis	Esophagus_Muscularis	Other
+GTEX-TSE9-1426-SM-MTK35	PT-TSE9	CO-34708239	Female	Breast - Mammary Tissue	Breast_Mammary_Tissue	Breast_Mammary_Tissue	Other
+GTEX-X4EP-2226-SM-MTK32	PT-X4EP	CO-34708239	Female	Vagina	Vagina	Vagina	Other
