@@ -7,7 +7,7 @@ Below the overall workflow is depicted:
 <img width="284" alt="image" src="https://github.com/user-attachments/assets/ffc7d786-98fe-4ef2-92fc-a8f0d5f133fd">
 
 
-# In silico Selection
+# In silico selection
 
 **cfDNA_DNAm_Differential_Analysis : Dataset_Analysis**
 
