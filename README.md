@@ -6,5 +6,5 @@ Our laboratory developed an experimental and bioinformatic pipeline to identify
 
 <img width="284" alt="image" src="https://github.com/user-attachments/assets/ffc7d786-98fe-4ef2-92fc-a8f0d5f133fd">
 
-## 1_cfDNA_DNAm_Differential_Analysis
+**1_cfDNA_DNAm_Differential_Analysis**
 We used the Core 15-state model elaborated by the NIH Roadmap Epigenomics Con-sortium, in which 15 possible chromatin states are predicted on the basis of 5 histone modifications, and we compared the data from 7 brain regions with those from 34 non-brain tissues and primary cell lines
