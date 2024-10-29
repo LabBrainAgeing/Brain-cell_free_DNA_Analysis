@@ -18,5 +18,5 @@ We validated selected target regions by analysing their DNAm via targeted bisulf
 
 **3_cfDNA_CAR-T_Analysis**
 
-To explore the ability of the assay to quantify bcfDNA, we applied it to plasma cfDNA samples extracted from 5 patients affected by relapsed/refractory B cell lymphoma who received CD19.CAR T cell therapy. At the time of plasma collection, 3 patients were in the acute phase of ICANS, an adverse event in CD19.CAR T therapy characterized by encephalopathy, seizures and cognitive impairment.![image](https://github.com/user-attachments/assets/34d1d54c-d5fc-4105-a577-c334ebbc6d9a)
+To explore the ability of the assay to quantify bcfDNA, we applied it to plasma cfDNA samples extracted from 5 patients affected by relapsed/refractory B cell lymphoma who received CD19.CAR T cell therapy. At the time of plasma collection, 3 patients were in the acute phase of ICANS, an adverse event in CD19.CAR T therapy characterized by encephalopathy, seizures and cognitive impairment.
 
