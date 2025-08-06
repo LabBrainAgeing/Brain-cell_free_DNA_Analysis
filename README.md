@@ -13,7 +13,7 @@ Below the overall workflow is depicted:
 
 First, Infinium 450K probes were annotated using the Core 15-state model elaborated by the NIH Roadmap Epigenomics Consortium. Annotated probes are stored in annotations450k.RData.gz. This workflow compares the data from brain regions with those from non-brain tissues and primary cell lines obtained from online repositories and selects CpG sites with i) a unique chromatine conformation in the brain and ii) with a brain-specific DNA methylation profile
 
-# Experimenta Validation
+# Experimental Validation
 
 **Target bisulfite sequencing**
 
